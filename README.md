@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning django and other frameworks
 - 💞️ I’m looking to collaborate on django projects
-- 📫 How to reach me rounak259@gmail.com
+- 📫 You can reach me rounak259@gmail.com
 
 <!---
 Rounak259/Rounak259 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
