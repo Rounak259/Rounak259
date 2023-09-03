@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rounak259
-- 👀 I’m interested in python
-- 🌱 I’m currently learning django and other frameworks
-- 💞️ I’m looking to collaborate on django projects
+- 👋 Hi, I’m @Rounak259.
+- 👀 I’m interested in Python & C++.
+- 🌱 I’m curious about new technologies and still learning.
+- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 You can reach me rounak259@gmail.com
 
 <!---
