@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rounak259.
-- 👀 I’m interested in Python & C++.
-- 🌱 I’m curious about new technologies and still learning.
-- 💞️ I’m looking to collaborate on open-source projects.
+- 👀 I'd like to do projects in Python & C++.
+- 🌱 I’m curious about new technologies and I'm still learning.
+- 💞️ I’m looking out to collaborate on open-source projects.
 - 📫 You can reach me rounak259@gmail.com
 
 <!---
