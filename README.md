@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rounak
 
-🚀 **Software Engineer | Backend-Focused | Building for <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PTC_logo.svg" width="25"/>**
+🚀 **Software Engineer | Backend-Focused | Building for <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PTC_logo.svg" width="30"/>**
 
 I build software that make development, testing, and delivery faster and smoother.
 Currently leveling up into **Backend Systems + GenAI + Cloud-native engineering**.
